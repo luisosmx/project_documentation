@@ -20,3 +20,11 @@ Before you begin installing GitHub Desktop, make sure you meet the following req
 Here are the steps you need to follow to install GitHub Desktop on your Windows system:
 
 1. Download the Installer: Access the official GitHub Desktop site at https://desktop.github.com/ and download the installer by clicking "Download for Windows".
+
+![git_dekt_down](imgs\git_dekt_down.png)
+
+
+2. Run the installer: Locate the downloaded file, usually called GitHubDesktopSetup.exe, and double-click it to run it.
+
+![download_program](imgs\download_program.png)
+
