@@ -38,7 +38,7 @@ Here are the steps you need to follow to install GitHub Desktop on your Windows 
     > **NOTE**  
     If you select the "GitHub Enterprise" option when logging in, you can enter the URLs and credentials of your GitHub Enterprise instance instead of using GitHub.com. This is useful for organizations that have deployed their own GitHub Enterprise instance and want to manage their repositories and workflows in their controlled environment.    
         
-
+4. Sign in: After installation, start GitHub Desktop and sign in with your GitHub account.
     
     -  When making the selection, a web page like the following will open, in which we must enter our email and password that we have registered in GitHub. After entering these data we select the "Login" button.
 
@@ -51,9 +51,16 @@ Here are the steps you need to follow to install GitHub Desktop on your Windows 
          ![Alt text](imgs/Screenshot_18.png)
 
 
-
-4. Sign in: After installation, start GitHub Desktop and sign in with your GitHub account.
-
-
 5. Initial Configuration (Optional): Customize GitHub Desktop preferences to suit your needs.
+    - Enter your username and password.
+    ![Alt text](imgs/Screenshot_20.png)
+
+    > **NOTE**  
+    Usually the platform autofills the fields when we select the option "Use my GitHub account name and email address"
+
+    ![Alt text](imgs/Screenshot_21.png)
+
+
+    ![Alt text](imgs/Screenshot_22.png)
+
 
