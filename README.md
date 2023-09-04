@@ -53,13 +53,27 @@ Here are the steps you need to follow to install GitHub Desktop on your Windows 
 
 5. Initial Configuration (Optional): Customize GitHub Desktop preferences to suit your needs.
     - Enter your username and password.
-    ![Alt text](imgs/Screenshot_20.png)
+
+        ![Alt text](imgs/Screenshot_20.png)
 
     > **NOTE**  
-    Usually the platform autofills the fields when we select the option "Use my GitHub account name and email address"
+    Usually the platform autofills the fields when we select the option "Use my GitHub account name and email address".
 
-    ![Alt text](imgs/Screenshot_21.png)
+    - GitHub Desktop gives you options to start working with Git repositories on your local computer. You can choose the option that best suits your current needs and start collaborating on software development projects.
 
+        #### Clone a Repository: 
+        This option allows you to clone (download) a GitHub repository to your local computer. Simply provide the URL of the repository you want to clone and select the location on your computer where you want to save the repository.
+
+        #### Create a Repository: 
+        If you want to start a new project, you can create a repository from scratch directly from GitHub Desktop. This will set up a new local repository and allow you to commit and push changes to a remote GitHub repository.
+
+        #### Add an Existing Repository: 
+        If you already have a Git repository on your local computer that you want to manage with GitHub Desktop, you can select this option. Just choose the folder where the repository is located and GitHub Desktop will recognize it.
+
+    - This time ***Clone a Repository*** will be used.
+
+        ![Alt text](imgs/Screenshot_21.png)
+    
 
     ![Alt text](imgs/Screenshot_22.png)
 
