@@ -74,7 +74,23 @@ Here are the steps you need to follow to install GitHub Desktop on your Windows 
 
         ![Alt text](imgs/Screenshot_21.png)
     
+    - On this page we can see how 'GitHub Desktop' clones the repositories we have on 'GitHub.com'
 
-    ![Alt text](imgs/Screenshot_22.png)
+        ![Alt text](imgs/Screenshot_22.png)
 
+        #### Current Repository: 
+        This is the selection of the repository you are currently configuring. GitHub Desktop displays the name of the repository that you are cloning from your GitHub account or that you have previously cloned to your local computer. You can change the current repository by clicking the "Choose a different repository" button if you want to work in another repository.
+        
+        #### Current Branch: 
+        A branch in a Git repository is an independent line of development. The "current branch" refers to the branch you currently have selected to work on in your local copy of the repository. When you clone a repository, by default, GitHub Desktop places you in the default branch of the repository, usually called "main" or "master". However, you can change the current branch if you want to work on a different branch. Branches are useful for developing new features or fixing bugs without affecting the main branch of the repository.
+
+        #### Publish Branch: 
+        The "Publish Branch" option is used when you want to share your changes to a specific branch with the remote repository on GitHub.com or on your GitHub Enterprise server. When you click "Publish Branch," the changes you've committed to that branch are pushed to the remote repository, allowing other collaborators to access and work on those changes collaboratively. This is essential for collaboration on software development projects.
+
+
+
+
+With GitHub Desktop installed on your system, you're ready to start working collaboratively and managing your repositories more efficiently.
+
+Follow this step-by-step guide and you'll be on your way to taking full advantage of GitHub Desktop's capabilities in your development workflow!
 
