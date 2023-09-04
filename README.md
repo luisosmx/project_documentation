@@ -24,18 +24,26 @@ Here are the steps you need to follow to install GitHub Desktop on your Windows 
     ![Alt text](imgs/git_dekt_down.png)
 
 
+
 2. Run the installer: Locate the downloaded file, usually called GitHubDesktopSetup.exe, and double-click it to run it.
 
     ![Alt text](imgs/download_program.png)
+    - When executed, a screen like the following will appear:
     ![Alt text](imgs/git_install.png)
 
 3. Installation: Follow the instructions of the installation wizard, accepting the license terms and choosing the installation options.
     - We select the option to enter github.com
     ![Alt text](imgs/git_init.png)
+
+        **NOTE:**
+
+            If you select the "GitHub Enterprise" option when logging in, you can enter the URLs and credentials of your GitHub Enterprise instance instead of using GitHub.com. This is useful for organizations that have deployed their own GitHub Enterprise instance and want to manage their repositories and workflows in their controlled environment.
     
     -  When making the selection, a page like the following will open, in which we must enter our email and password that we have registered in GitHub. After entering these data we select the "Sign in" button.
 
         ![!\[Alt text\](imgs/git_init.png)](imgs/Screenshot_17.png)
+
+
 
     - We select the button for the synchronization of GitHub Desktop and the GitHub website
          ![Alt text](imgs/Screenshot_18.png)
