@@ -40,14 +40,17 @@ Here are the steps you need to follow to install GitHub Desktop on your Windows 
         
 
     
-    -  When making the selection, a page like the following will open, in which we must enter our email and password that we have registered in GitHub. After entering these data we select the "Sign in" button.
+    -  When making the selection, a web page like the following will open, in which we must enter our email and password that we have registered in GitHub. After entering these data we select the "Login" button.
 
         ![!\[Alt text\](imgs/git_init.png)](imgs/Screenshot_17.png)
 
 
 
-    - We select the button for the synchronization of GitHub Desktop and the GitHub website
+    - We select the "Authorize desktop" button to sync GitHub Desktop and the GitHub website.
+
          ![Alt text](imgs/Screenshot_18.png)
+
+
 
 4. Sign in: After installation, start GitHub Desktop and sign in with your GitHub account.
 
